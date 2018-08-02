@@ -1,0 +1,12 @@
+name: gsheet
+title: gsheet
+username:
+account: evanbeierschmitt
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 394082
+bundleId: 1515479
+url: https://evanbeierschmitt.shinyapps.io/gsheet/
+when: 1533246166.38834
+asMultiple: FALSE
+asStatic: FALSE
